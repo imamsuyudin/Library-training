@@ -3,5 +3,4 @@ Alur project mendalam
 -membuat dasar dengan html
 -membuat desain pewarnaan
 -alur dengan javascript
--menambahkan icon
--membuta proper website
+-membuat website lebih eazy to use

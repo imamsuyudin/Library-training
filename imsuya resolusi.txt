@@ -3,3 +3,5 @@ Alur project mendalam
 -membuat dasar dengan html
 -membuat desain pewarnaan
 -alur dengan javascript
+-Mebuat merchendise
+-membuta proper website

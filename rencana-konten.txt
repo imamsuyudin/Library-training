@@ -1,0 +1,4 @@
+Rencana Content Update
+-pembagian alur kerja
+-perubahan time kerja
+-perubah source pada javascript

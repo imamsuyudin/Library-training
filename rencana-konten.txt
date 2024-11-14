@@ -1,12 +1,14 @@
 Rencana Content Update
 -pembagian alur kerja
  * untuk alur memakai aplikasi animasi untuk visual
+   laravel
 
 -perubahan time kerja
   * waktu hanya 1 tahun dalam develop aplikasi timer watch
+   javascript
 
 -perubah source pada javascript
   *hanya bisa menggunakan sintaks ()
-
+ Phyton
 Struktur tugas pada New Project
 

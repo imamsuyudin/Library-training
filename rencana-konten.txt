@@ -7,3 +7,6 @@ Rencana Content Update
 
 -perubah source pada javascript
   *hanya bisa menggunakan sintaks ()
+
+Struktur tugas pada New Project
+

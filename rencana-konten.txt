@@ -1,4 +1,9 @@
 Rencana Content Update
 -pembagian alur kerja
+ * untuk alur memakai aplikasi animasi untuk visual
+
 -perubahan time kerja
+  * waktu hanya 1 tahun dalam develop aplikasi timer watch
+
 -perubah source pada javascript
+  *hanya bisa menggunakan sintaks ()
